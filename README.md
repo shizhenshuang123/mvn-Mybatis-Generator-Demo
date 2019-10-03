@@ -160,5 +160,5 @@ Mybatis-Generator可以帮我们去生成 Model、Dao、Mapper 和映射的 sql�
 在项目右侧导航栏中选择Run Configurations下的generator即可
 ### git地址
 https://github.com/shizhenshuang123/mvn-Mybatis-Generator-Demo
-### gradle版本
+### gradle版本请参照
 https://blog.csdn.net/inke88/article/details/74766432
